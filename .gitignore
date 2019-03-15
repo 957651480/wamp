@@ -1,7 +1,7 @@
 php/*
 !php/php.ini
 sites/*
-!sites/website/public
+!sites/website/public/index.php
 
 nginx/*
 !nginx/conf/nginx.conf

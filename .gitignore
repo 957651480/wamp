@@ -1,0 +1,11 @@
+php/*
+!php/php.ini
+sites/*
+!sites/website/public
+
+nginx/*
+!nginx/conf/nginx.conf
+
+redis/*
+!redis/redis.windows.conf
+/ctrtl/dump.rdb
